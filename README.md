@@ -31,3 +31,5 @@ The important thing about working with animals is watching them. We need to see 
 The third stage brings new abilities for your software: it will be able to recognize the number of a specific habitat from the input and show the animals living there.
 
 Add all variables with images from the template to a variable with the type list. The order of variables matters: they must be in the order they're defined in the code. The list must contain all of them with no duplicates.
+
+In this final stage, your software will be ready for use by the zoo staff. Your program should understand the habitat numbers, show the animals, and be able to work infinitely.
