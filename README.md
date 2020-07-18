@@ -33,3 +33,12 @@ The third stage brings new abilities for your software: it will be able to recog
 Add all variables with images from the template to a variable with the type list. The order of variables matters: they must be in the order they're defined in the code. The list must contain all of them with no duplicates.
 
 In this final stage, your software will be ready for use by the zoo staff. Your program should understand the habitat numbers, show the animals, and be able to work infinitely.
+
+# Objectives
+
+These are your tasks at this point:
+
+    Your program should repeat the behavior from the previous stage, now in a loop.
+    Do not forget to add an exit opportunity for the program: inputting the word exit must terminate the program.
+    At the end of execution, it must print See you!.
+
